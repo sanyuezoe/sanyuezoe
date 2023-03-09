@@ -1,5 +1,5 @@
 # Hi there! 👩
-**
+
 ### About Me
 
 I am Zoe, a Frontend Developer and Digital Humanitist,  interested in UI/UX Design and Data Science. I am always seeking to learn and improve her skills.✨

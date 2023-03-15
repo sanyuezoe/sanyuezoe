@@ -15,6 +15,9 @@ Here you can find all my projects.
 
 
 ### 🤹‍♀️My Tools
+- Web Development: HTML, CSS, JavaScript, APIs, React
+* Python: Pandas
++ SQL & SPASQL
 
 
 <!--

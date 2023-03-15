@@ -18,6 +18,7 @@ Here you can find all my projects.
 - Web Development: HTML, CSS, JavaScript, APIs, React
 * Python: Pandas
 + SQL & SPASQL
++ Git & Github
 
 
 <!--

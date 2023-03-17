@@ -11,6 +11,10 @@ Here you can find all my projects.
 
 
 ### 🍄My Skills
+- Web Development 
+* UI & UX Design
++ Testing and Debugging
+- Data Analysis and Modelling
 
 
 

@@ -23,6 +23,7 @@ Here you can find all my projects.
 * Python: Pandas
 + SQL & SPASQL
 - Git & Github
+- XML & jQuery & xQuery
 
 
 <!--

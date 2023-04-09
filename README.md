@@ -7,7 +7,7 @@ I am Zoe, a Frontend Developer and Digital Humanitist,  interested in UI/UX Desi
 
 ### 👩‍💻Projects
 
-Here you can find all my projects.
+Here you can find my projects.
 
 
 ### 🍄My Skills

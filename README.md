@@ -7,7 +7,8 @@ I am Zoe, a Frontend Developer and Digital Humanitist,  interested in UI/UX Desi
 
 ### 👩‍💻Projects
 
-Here you can find my projects.
+Here you can find my projects：
+
 https://github.com/sanyuezoe/Scrimba-Projects
 
 https://github.com/sanyuezoe/Frontendmentor-Challenges-Projects

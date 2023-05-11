@@ -23,7 +23,7 @@ https://github.com/sanyuezoe/Frontendmentor-Challenges-Projects
 
 
 ### 🤹‍♀️My Tools
-- Web Development: HTML, CSS, JavaScript, APIs, React
+- Web Development: HTML, CSS, JavaScript, APIs, React, jQuery
 * Python: Pandas
 + SQL & SPASQL
 - Git & Github
@@ -31,6 +31,6 @@ https://github.com/sanyuezoe/Frontendmentor-Challenges-Projects
 
 
 ### What am I learning...
-- Frontend libraries: React(Next.js), Angular, Vue, jQuery
+- Frontend libraries: React(Next.js), Angular, Vue
 
 

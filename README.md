@@ -24,14 +24,14 @@ https://github.com/sanyuezoe/Frontendmentor-Challenges-Projects
 
 
 ### 🤹‍♀️My Tools
-- Web Development: HTML, CSS, JavaScript, APIs, React, jQuery
+- Web Development: HTML, CSS (Tailwind CSS), JavaScript, TypeScript, APIs, React (Next.js), jQuery
 * Python: Pandas
 + SQL & SPASQL
-- Git & Github
+- Git & GitHub & Bitbucket
 - XML & xQuery
 
 
 ### What am I learning...
-- Frontend libraries: React(Next.js), Angular, Vue
+- Frontend libraries: Angular, Vue
 
 

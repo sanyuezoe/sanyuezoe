@@ -19,7 +19,7 @@ https://github.com/sanyuezoe/Frontendmentor-Challenges-Projects
 - Web Development 
 * UI & UX Design
 + Testing and Debugging & Code reviews
-- Data Analysis and Modelling
+- Exploratory Data Analysis, Modelling and Visualization
 
 
 
